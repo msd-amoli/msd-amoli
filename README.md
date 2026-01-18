@@ -112,9 +112,6 @@ Actively transitioning into **Java Backend & Cloud Engineering roles** within **
 ## GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rayxtr&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rayxtr&show_icons=true&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rayxtr"/>
-</p>
