@@ -111,4 +111,5 @@ Actively transitioning into **Java Backend & Cloud Engineering roles** within **
 
 ## GitHub Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayxtr&show_icons=true&locale=en&layout=compact" alt="rayxtr" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayxtr&show_icons=true&locale=en" alt="rayxtr" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayxtr&" alt="rayxtr" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=rayxtr&show_icons=true&theme=transparent" />
+
