@@ -112,5 +112,5 @@ Actively transitioning into **Java Backend & Cloud Engineering roles** within **
 ## GitHub Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=msd-amoli&show_icons=true&theme=transparent" />
-[![GitHub Streak](https://streak-stats.demolab.com?user=msd-amoli&theme=city-lights)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=msd-amoli&theme=city-lights" alt="GitHub Streak" /></a>
 
