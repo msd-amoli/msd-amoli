@@ -4,7 +4,7 @@ Java Backend Engineer | Cloud (AWS & OCI) | Enterprise ERP Systems
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rayxtr&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=msd-amoli&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -111,5 +111,5 @@ Actively transitioning into **Java Backend & Cloud Engineering roles** within **
 
 ## GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=rayxtr&show_icons=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=msd-amoli&show_icons=true&theme=transparent" />
 
