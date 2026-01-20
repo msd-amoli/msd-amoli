@@ -112,6 +112,6 @@ Actively transitioning into **Java Backend & Cloud Engineering roles** within **
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=msd-amoli&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msd-amoli&theme=transparent)](https://git.io/streak-stats)
 
 
