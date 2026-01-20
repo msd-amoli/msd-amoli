@@ -89,7 +89,7 @@ Actively transitioning into **Java Backend & Cloud Engineering roles** within **
 
 - **LinkedIn:** https://linkedin.com/in/madhusudan-amoli  
 - **Email:** madhuamoli16@gmail.com  
-- **Resume:** https://drive.google.com/file/d/1piDkRgSA42Rhz22xrPycUiI4a0waNOCu/view  
+- **Resume:** 
 
 ---
 
