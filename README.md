@@ -1,6 +1,7 @@
 <h1 align="center">Madhusudan Amoli</h1>
+
 <h3 align="center">
-Java Backend Engineer | Cloud (AWS & OCI) | Enterprise ERP Systems
+ERP Technical Consultant | SAP UI5 & Fiori Developer | Enterprise Application Development
 </h3>
 
 <p align="center">
@@ -11,99 +12,127 @@ Java Backend Engineer | Cloud (AWS & OCI) | Enterprise ERP Systems
 
 ## Professional Summary
 
-Java-focused software engineer with hands-on experience in **enterprise ERP systems**, backend development, and cloud fundamentals.  
-Currently working as an **ERP Technical Consultant**, delivering real-world business solutions using **Java, SQL, scripting, and system customization**.
+ERP Technical Consultant with 2.5+ years of experience in enterprise application customization, workflow automation, SQL reporting, and business process support.
 
-Actively transitioning into **Java Backend & Cloud Engineering roles** within **global organizations**.
+Currently focused on SAP technologies including **SAP Fiori/UI5**, **SAP ABAP**, **OData services**, and **SAP BTP** while building enterprise-oriented applications and modern business solutions.
+
+Experienced in JavaScript, Java, Python, SQL, REST APIs, and web application development with strong exposure to ERP systems and operational workflows.
 
 ---
 
 ## Current Role
 
-**ERP Technical Software Consultant**  
+### ERP Technical Consultant
 *Oman | Enterprise Business Systems*
 
-- Design and implement **custom ERP scripts, reports, and print formats**
-- Develop **SQL-based business reports** and performance queries
-- Customize **ERP documents, workflows, and integrations**
-- Support **end-to-end ERP implementations** for live production environments
-- Collaborate with business teams to translate operational requirements into technical solutions
+- Developed ERP customizations, workflow automations, and business process enhancements
+- Created SQL-based reports and dashboards for business operations
+- Worked on ERP document customization, reporting systems, and internal workflow improvements
+- Collaborated with business teams to implement technical solutions for operational requirements
+- Supported enterprise application enhancements and process optimization initiatives
 
 ---
 
-## Career Focus
+## SAP Learning & Projects
 
-- 🎯 **Java Backend Development (Spring / Spring Boot)**
-- ☁️ **Cloud Engineering** – AWS & Oracle Cloud Infrastructure (OCI)
-- 🏗️ Enterprise-scale applications & system integrations
-- 🌍 Open to **Europe / Global MNC opportunities**
+### SAP Fiori / UI5
+- Building responsive SAP UI5 applications using MVC architecture
+- Working with routing, models, data binding, fragments, and reusable controls
+- Integrating frontend applications with REST and OData services
+
+### SAP ABAP
+- Developing ABAP reports and practice applications
+- Working with internal tables, Open SQL, modularization, and database operations
+- Exploring enterprise backend business logic development
+
+### SAP BTP
+- Learning SAP BTP concepts and cloud-based enterprise application development
+- Exploring SAP extension and integration workflows
 
 ---
 
 ## Technical Skills
 
-### Programming & Backend
-- **Java (Core Java, OOP, Collections, Multithreading)**
-- **Spring Framework (Spring Core, Spring Boot)**
-- Python (automation & scripting)
+### SAP Technologies
+- SAP Fiori
+- SAPUI5
+- SAP ABAP
+- SAP BTP
+- OData Services
 
-### Web & APIs
-- RESTful API Development
-- JavaScript (ES6+)
-- HTML5, CSS3
+### Programming & Development
+- JavaScript
+- Java
+- Python
+- REST APIs
+- HTML5
+- CSS3
+
+### Frameworks & Libraries
+- React.js
+- Node.js
+- Spring Boot
 
 ### Databases
+- SQL
 - MySQL
-- Advanced SQL (joins, subqueries, optimization)
-
-### Cloud (Learning & Hands-on)
-- **AWS**: EC2, S3, IAM (foundational architecture & deployment concepts)
-- **Oracle Cloud Infrastructure (OCI)**: compute, storage, cloud basics
+- PostgreSQL
 
 ### Tools & Platforms
 - Git & GitHub
-- Linux
 - Postman
-- ERPNext / ERP customization frameworks
+- Linux
+- ERP Systems
+- Workflow Automation
 
 ---
 
 ## Education
 
-🎓 **Master of Computer Applications (MCA)**  
-*Currently Pursuing*
+🎓 Master of Computer Applications (MCA)  
+Specialization: Artificial Intelligence & Machine Learning  
+Currently Pursuing
 
 ---
 
-## Professional Strengths
+## Professional Interests
 
-- Enterprise system exposure (ERP & business operations)
-- Strong problem-solving and system-thinking mindset
-- Clean, maintainable backend code practices
-- Experience working with **international clients & teams**
-- Continuous learner focused on scalable architecture
+- Enterprise Application Development
+- SAP Fiori/UI5 Development
+- ERP Systems & Business Applications
+- Workflow Automation
+- Cloud-Based Business Solutions
 
 ---
 
 ## Connect
 
-- **LinkedIn:** https://linkedin.com/in/madhusudan-amoli  
-- **Email:** madhuamoli16@gmail.com  
-- **Resume:** 
+- LinkedIn: www.linkedin.com/in/madhusudan-amoli
+- GitHub: github.com/msd-amoli
+- Email: madhusudanamoli1995@gmail.com
 
 ---
 
 ## Languages & Tools
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+
+</p>
