@@ -7,6 +7,9 @@ ERP Technical Consultant | SAP UI5 & Fiori Developer | Enterprise Application De
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=msd-amoli&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+<p align="center">
+  <img src="https://github.com/msd-amoli/msd-amoli/blob/main/Madhu.gif" width="700" alt="Madhu Banner"/>
+</p>
 
 ---
 
