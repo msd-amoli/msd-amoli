@@ -139,3 +139,8 @@ Currently Pursuing
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msd-amoli&show_icons=true&theme=vivid&count_private=true" alt="Madhusudan's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msd-amoli&theme=vivid" alt="Madhusudan's Streak Stats" height="180" />
+</p>
