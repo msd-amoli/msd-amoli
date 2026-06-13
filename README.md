@@ -19,7 +19,7 @@ ERP Technical Consultant with 2.5+ years of experience in enterprise application
 
 Currently focused on SAP technologies including **SAP Fiori/UI5**, **SAP ABAP**, **OData services**, and **SAP BTP** while building enterprise-oriented applications and modern business solutions.
 
-Experienced in JavaScript, Java, Python, SQL, REST APIs, and web application development with strong exposure to ERP systems and operational workflows.
+Experienced in JavaScript, Java, SQL, REST APIs, and web application development with strong exposure to ERP systems and operational workflows.
 
 ---
 
