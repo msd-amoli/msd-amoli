@@ -15,7 +15,7 @@ ERP Technical Consultant | SAP UI5 & ABAP Developer | Enterprise Application Dev
 
 ## Professional Summary
 
-ERP Technical Consultant with 2.5+ years of experience in enterprise application customization, workflow automation, SQL reporting, and business process support.
+ERP Technical Consultant with 3 years of experience in enterprise application customization, workflow automation, SQL reporting, and business process support.
 
 Currently focused on SAP technologies including **SAP Fiori/UI5**, **SAP ABAP**, **OData services**, and **SAP BTP** while building enterprise-oriented applications and modern business solutions.
 
