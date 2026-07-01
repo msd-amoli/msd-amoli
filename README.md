@@ -1,7 +1,7 @@
 <h1 align="center">Madhusudan Amoli</h1>
 
 <h3 align="center">
-ERP Technical Consultant | SAP UI5 & ABAP Developer | Enterprise Application Development
+ERP Technical Consultant | SAP UI5 & BTP  Developer | Enterprise Application Development
 </h3>
 
 <p align="center">
